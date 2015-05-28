@@ -1,0 +1,19 @@
+{
+  "name": "LimeTruck",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "*",
+    "express": "^4.8.5",
+    "express-session": "^1.7.6",
+    "serve-favicon": "^2.0.1"
+  },
+  "description": "LimeTruck - by Pivit Labs",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Jeff Schwarting",
+  "license": "All Rights Reserved"
+}

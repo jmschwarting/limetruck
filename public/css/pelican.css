@@ -1,0 +1,35 @@
+.jumbotron-top{
+	background-image: url(https://ununsplash.imgix.net/photo-1415226620463-aedee27159c5?q=75&fm=jpg);
+	color: white;
+}
+
+
+.btn-primary{
+	background: #0093FF;
+	border-color: #0093FF;
+}
+
+
+.btn-primary:hover{
+	background: black;
+	border-color: black;
+}
+
+.btn-primary:focus{
+	background: black;
+}
+
+.btn-primary:active{
+	background: #424242;
+}
+
+
+.modal-body{
+	height: 80vh;
+}
+
+.footer{
+	background-color: #222222;
+	margin-bottom: -50px;
+	color: #ccc;
+}
